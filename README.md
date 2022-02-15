@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew
-- 👀 I’m interested in web development, especially back end development.
-- 🌱 I’m currently learning informatics and multi-device web development
+- 👀 I’m interested in web development, mostly front-end but I am still interested in back-end. I have worked in JavaScript, HTML/CSS, and PHP so far. 
+- 🌱 I’m currently marjoring in informatics and multi-device web development in college.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
