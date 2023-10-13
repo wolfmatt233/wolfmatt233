@@ -11,6 +11,11 @@
   - Creating APIs using PHP
   - Using public APIs using JavaScript
   - MYSQL Databases using PHPMyAdmin
+- Highlighted Works:
+  - React Data Display: https://github.com/n320-wolfmi/Project2
+  - Simple API data display: https://github.com/n423-wolfmi/homework2
+  - Retrieving and displaying Firestore data: https://github.com/n423-wolfmi/homework5
+  - Single Page Website: https://github.com/n215-wolfmi/final-project
 - 🌱 I’m currently marjoring in informatics and multi-device web development at Indiana University Purdue University Indianapolis (IUPUI).
 - 📫 Contact me here: wolfmi@iu.edu or matthewwolf56@gmail.com
 
