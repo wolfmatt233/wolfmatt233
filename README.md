@@ -1,10 +1,16 @@
 - 👋 Hi, I’m Matthew Wolf.
-- 👀 I’m interested in web development, mostly front-end with a little interest in back end.
+- 👀 I’m interested in web development.
 - I have worked in: 
   - JavaScript
   - HTML/CSS + Sass
   - PHP
-  - React
+  - React/React Native
+- My favorites to work with are JavaScript and CSS/Sass.
+- I have learned a lot about extensible apps and managing data with the following:
+  - CRUD applications using JavaScript and React js
+  - Creating APIs using PHP
+  - Using public APIs using JavaScript
+  - MYSQL Databases using PHPMyAdmin
 - 🌱 I’m currently marjoring in informatics and multi-device web development at Indiana University Purdue University Indianapolis (IUPUI).
 - 📫 Contact me here: wolfmi@iu.edu or matthewwolf56@gmail.com
 
