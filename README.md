@@ -7,10 +7,10 @@
   - React/React Native
 - My favorites to work with are JavaScript and CSS/Sass.
 - I have learned a lot about extensible apps and managing data with the following:
-  - CRUD applications using JavaScript and React js
-  - Creating APIs using PHP
+  - CRUD applications using JavaScript, React js, and PHP
+  - Creating Rest APIs using PHP
   - Using public APIs using JavaScript
-  - MYSQL Databases using PHPMyAdmin
+  - MYSQL Databases using PHPMyAdmin & NoSQL Databases using Firebase
 - Highlighted Works:
   - React Data Display: https://github.com/n320-wolfmi/Project2
   - API and CRUD Application: https://github.com/n423-wolfmi/CocktailProject (IN PROGRESS)
