@@ -13,7 +13,7 @@
   - MYSQL Databases using PHPMyAdmin & NoSQL Databases using Firebase
 - Highlighted Works:
   - React Data Display: https://github.com/n320-wolfmi/Project2
-  - API and CRUD Application: https://github.com/n423-wolfmi/CocktailProject (IN PROGRESS)
+  - API and CRUD Application: https://github.com/n423-wolfmi/CocktailProject
   - Simple API data display: https://github.com/n423-wolfmi/homework2
   - Retrieving and displaying Firestore data: https://github.com/n423-wolfmi/homework5
   - Single Page Website: https://github.com/n215-wolfmi/final-project
