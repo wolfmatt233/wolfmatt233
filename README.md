@@ -12,6 +12,7 @@
   - Using public APIs using JavaScript
   - MYSQL Databases using PHPMyAdmin & NoSQL Databases using Firebase
 - Highlighted Works:
+  - Capstone Project: https://github.com/wolfmatt233/GameAPI
   - React Data Display: https://github.com/n320-wolfmi/Project2
   - API and CRUD Application: https://github.com/n423-wolfmi/CocktailProject
   - Simple API data display: https://github.com/n423-wolfmi/homework2
