@@ -5,7 +5,7 @@
   - HTML/CSS + Sass
   - PHP
   - React/React Native
-- My favorites to work with are JavaScript and CSS/Sass.
+- My favorites to work with are JavaScript, React, and CSS/Sass.
 - I have learned a lot about extensible apps and managing data with the following:
   - CRUD applications using JavaScript, React js, and PHP
   - Creating Rest APIs using PHP
