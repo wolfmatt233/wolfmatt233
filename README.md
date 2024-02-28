@@ -12,14 +12,14 @@
   - Using public APIs using JavaScript
   - MYSQL Databases using PHPMyAdmin & NoSQL Databases using Firebase
 - Highlighted Works:
-  - Capstone Project: https://github.com/wolfmatt233/GameAPI
-  - React Data Display: https://github.com/n320-wolfmi/Project2
-  - API and CRUD Application: https://github.com/n423-wolfmi/CocktailProject
-  - Simple API data display: https://github.com/n423-wolfmi/homework2
-  - Retrieving and displaying Firestore data: https://github.com/n423-wolfmi/homework5
-  - Single Page Website: https://github.com/n215-wolfmi/final-project
+  - [Capstone Project](https://github.com/wolfmatt233/GameAPI)
+  - [React Data Display](https://github.com/n320-wolfmi/Project2)
+  - [API and CRUD Application](https://github.com/n423-wolfmi/CocktailProject)
+  - [Simple API data display](https://github.com/n423-wolfmi/homework2)
+  - [Retrieving and displaying Firestore data](https://github.com/n423-wolfmi/homework5)
+  - [Single Page Website](https://github.com/n215-wolfmi/final-project)
 - 🌱 I’m currently marjoring in informatics and multi-device web development at Indiana University Purdue University Indianapolis (IUPUI).
-- 📫 Contact me here: wolfmi@iu.edu or matthewwolf56@gmail.com
+- 📫 Contact me here: wolfmi@iu.edu or matthewwolf321@gmail.com
 
 <!---
 wolfmatt233/wolfmatt233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
