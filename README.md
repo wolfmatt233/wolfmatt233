@@ -10,7 +10,7 @@
   - HTML/CSS + Sass
   - PHP
   - React/React Native
-- I have learned a lot about extensible apps and managing data with the following:
+- I have learned about extensible apps and managing data with the following:
   - CRUD applications using JavaScript, React js, and PHP
   - Creating Rest APIs using PHP
   - Using public APIs with JavaScript
