@@ -1,24 +1,21 @@
 - 👋 Hi, I’m Matthew Wolf.
-- 👀 I’m interested in web development.
+- 👀 I’m interested in full stack web development.
 - I have worked in: 
   - JavaScript
   - HTML/CSS + Sass
   - PHP
   - React/React Native
-- My favorites to work with are JavaScript, React, and CSS/Sass.
 - I have learned a lot about extensible apps and managing data with the following:
   - CRUD applications using JavaScript, React js, and PHP
   - Creating Rest APIs using PHP
-  - Using public APIs using JavaScript
-  - MYSQL Databases using PHPMyAdmin & NoSQL Databases using Firebase
+  - Using public APIs with JavaScript
+  - MYSQL Databases with PHPMyAdmin & NoSQL Databases with Firebase
 - Highlighted Works:
-  - [Capstone Project](https://github.com/wolfmatt233/GameAPI)
-  - [React Data Display](https://github.com/n320-wolfmi/Project2)
-  - [API and CRUD Application](https://github.com/n423-wolfmi/CocktailProject)
-  - [Simple API data display](https://github.com/n423-wolfmi/homework2)
-  - [Retrieving and displaying Firestore data](https://github.com/n423-wolfmi/homework5)
+  - [Video Game API Website](https://github.com/wolfmatt233/GameAPI)
+  - [React Terraria NPC Data Display](https://github.com/n320-wolfmi/Project2)
+  - [Cocktail API Website](https://github.com/n423-wolfmi/CocktailProject)
   - [Single Page Website](https://github.com/n215-wolfmi/final-project)
-- 🌱 I’m currently marjoring in informatics and multi-device web development at Indiana University Purdue University Indianapolis (IUPUI).
+- 🌱 I’m currently marjoring in informatics and multi-device web development at Indiana University Indianapolis.
 - 📫 Contact me here: wolfmi@iu.edu or matthewwolf321@gmail.com
 
 <!---
