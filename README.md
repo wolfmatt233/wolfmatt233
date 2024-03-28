@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Matthew Wolf.
-- 👀 I’m interested in full stack web development.
+# Matthew Wolf 
+- Informatics Student at IU Indianapolis, interested in full stack web development.
 - Highlighted Works:
   - [Video Game API Website](https://github.com/wolfmatt233/GameAPI)
   - [React Terraria NPC Data Display](https://github.com/n320-wolfmi/Project2)
@@ -15,8 +15,6 @@
   - Creating Rest APIs using PHP
   - Using public APIs with JavaScript
   - MYSQL Databases with PHPMyAdmin & NoSQL Databases with Firebase
-
-- 🌱 I’m currently marjoring in informatics and multi-device web development at Indiana University Indianapolis.
 - 📫 Contact me here: wolfmi@iu.edu or matthewwolf321@gmail.com
 
 <!---
