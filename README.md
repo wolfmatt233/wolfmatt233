@@ -4,7 +4,7 @@
   - [Video Game API Website](https://github.com/wolfmatt233/GameAPI)
   - [React Terraria NPC Data Display](https://github.com/n320-wolfmi/Project2)
   - [Cocktail API Website](https://github.com/n423-wolfmi/CocktailProject)
-  - [Single Page Website](https://github.com/n215-wolfmi/final-project)
+  - [Quotes App](https://github.com/wolfmatt233/QuoteApp)
 - I have worked in: 
   - JavaScript
   - HTML/CSS + Sass
