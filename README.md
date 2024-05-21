@@ -1,5 +1,6 @@
 # Matthew Wolf 
-- Informatics Student at IU Indianapolis, interested in full stack web development.
+- Informatics Graduate from IU Indianapolis, interested in full stack web development.
+- [Portfolio](https://wolfmatt233.github.io/Portfolio/)
 - Highlighted Works:
   - [Video Game API Website](https://github.com/wolfmatt233/GameAPI)
   - [React Terraria NPC Data Display](https://github.com/n320-wolfmi/Project2)
