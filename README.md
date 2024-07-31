@@ -6,7 +6,7 @@
   - [React Terraria NPC Data Display](https://github.com/n320-wolfmi/Project2)
   - [Cocktail API Website](https://github.com/n423-wolfmi/CocktailProject)
   - [Quotes App](https://github.com/wolfmatt233/QuoteApp)
-  - [Library Site](https://github.com/wolfmatt233/LibraryManagement)
+  - [Library Management System](https://github.com/wolfmatt233/LibraryManagement)
 - I have experience in: 
   - JavaScript, jQuery
   - HTML/CSS, Sass, Tailwind
