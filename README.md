@@ -1,5 +1,5 @@
 # Matthew Wolf 
-- Informatics Graduate from IU Indianapolis, interested in full stack web development.
+- Informatics Graduate from IU Indianapolis, interested in full stack web development. Looking for entry level opportunities!
 - [Portfolio](https://wolfmatt233.github.io/Portfolio/)
 - Highlighted Works:
   - [Video Game API Website](https://github.com/wolfmatt233/GameAPI)
@@ -7,16 +7,12 @@
   - [Cocktail API Website](https://github.com/wolfmatt233/CocktailAPIWebsite)
   - [Quotes App](https://github.com/wolfmatt233/QuoteApp)
   - [Library Management System](https://github.com/wolfmatt233/LibraryManagement)
-- I have experience in: 
-  - JavaScript, jQuery
-  - HTML/CSS, Sass, Tailwind
-  - PHP, Laravel, MySQL
-  - React, React Native
-- I have learned about extensible apps and managing data with the following:
-  - CRUD applications using JavaScript, React js, and PHP
-  - Creating Restful APIs using PHP
-  - Consuming external APIs with JavaScript
-  - MYSQL Databases with PHPMyAdmin & NoSQL Databases with Firebase
+- Technical Skills: 
+  - Languages: JavaScript, PHP, SQL, HTML, CSS
+  - Frameworks & Libraries: React, React Native, jQuery, Laravel, Tailwind, Sass
+  - Tools: XAMPP, Firebase, GitHub, APIs
+  - Skills: Responsive Styling, MVC Design Pattern, Object Oriented Programming, RESTful API Development
+- I have have experience creating web applications on both the front and back end, including creating CRUD applications, RESTful APIs, and SQL/NoSQL databases as well as consuming external APIs.
 - 📫 Contact me at matthewwolf321@gmail.com
 
 <!---
