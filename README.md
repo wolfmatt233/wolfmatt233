@@ -4,7 +4,7 @@
 - Highlighted Works:
   - [Video Game API Website](https://github.com/wolfmatt233/GameAPI)
   - [React Terraria NPC Data Display](https://github.com/wolfmatt233/Terraria-React-App)
-  - [Cocktail API Website](https://wolfmatt233.github.io/CocktailAPIWebsite/dist/)
+  - [Cocktail API Website](https://github.com/wolfmatt233/CocktailAPIWebsite)
   - [Quotes App](https://github.com/wolfmatt233/QuoteApp)
   - [Library Management System](https://github.com/wolfmatt233/LibraryManagement)
 - I have experience in: 
