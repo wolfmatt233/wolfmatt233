@@ -17,7 +17,7 @@
   - Creating Restful APIs using PHP
   - Consuming external APIs with JavaScript
   - MYSQL Databases with PHPMyAdmin & NoSQL Databases with Firebase
-- 📫 Contact me here: wolfmi@iu.edu or matthewwolf321@gmail.com
+- 📫 Contact me at matthewwolf321@gmail.com
 
 <!---
 wolfmatt233/wolfmatt233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
