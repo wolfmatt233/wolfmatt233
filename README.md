@@ -13,7 +13,7 @@
   - Frameworks & Libraries: React, React Native, jQuery, Laravel, Tailwind, Sass
   - Tools: XAMPP, Firebase, GitHub, APIs
   - Skills: Responsive Styling, MVC Design Pattern, Object Oriented Programming, RESTful API Development
-- 📫 Contact me at matthewwolf321@gmail.com
+- 📫 Contact me at matthewwolf321@gmail.com or [LinkedIn](https://www.linkedin.com/in/matthew-wolf2)
 
 <!---
 wolfmatt233/wolfmatt233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
