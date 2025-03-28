@@ -1,4 +1,5 @@
-# Matthew Wolf | [Portfolio](https://wolfmatt233.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/matthew-wolf2)
+# Matthew Wolf 
+## [Portfolio](https://wolfmatt233.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/matthew-wolf2)
 - Informatics Graduate from IU Indianapolis, interested in full stack web development. Looking for entry level opportunities!
 - I have have experience creating web applications on both the front and back end, including creating CRUD applications, RESTful APIs, and SQL/NoSQL databases as well as consuming external APIs.
 - Highlighted Works:
