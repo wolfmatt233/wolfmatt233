@@ -1,15 +1,14 @@
-# Matthew Wolf 
-## [Portfolio](https://wolfmatt233.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/matthew-wolf2)
+# Matthew Wolf | [Portfolio](https://wolfmatt233.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/matthew-wolf2)
 - Informatics Graduate from IU Indianapolis, interested in full stack web development. Looking for entry level opportunities!
 - I have have experience creating web applications on both the front and back end, including creating CRUD applications, RESTful APIs, and SQL/NoSQL databases as well as consuming external APIs.
 - Highlighted Works:
+  - [Full-stack Itinerary Application](https://github.com/wolfmatt233/ItineraryApp)
   - [Quotes App](https://github.com/wolfmatt233/QuoteApp)
-  - [Video Game API Website](https://github.com/wolfmatt233/GameAPI)
+  - [Video Game API Website](https://github.com/wolfmatt233/GameAPI)    
   - [React Terraria NPC Data Display](https://github.com/wolfmatt233/Terraria-React-App)
-  - [Cocktail API Website](https://github.com/wolfmatt233/CocktailAPIWebsite)
   - [Library Management System](https://github.com/wolfmatt233/LibraryManagement)
 - Technical Skills: 
-  - Languages: JavaScript, PHP, SQL, HTML, CSS
+  - Languages: JavaScript, PHP, SQL, HTML, CSS, R, Python via Jupyter Notebook
   - Frameworks & Libraries: React, React Native, jQuery, Laravel, Tailwind, Sass
   - Tools: XAMPP, Firebase, GitHub, APIs
   - Skills: Responsive Styling, MVC Design Pattern, Object Oriented Programming, RESTful API Development
